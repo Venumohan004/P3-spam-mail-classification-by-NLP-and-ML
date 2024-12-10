@@ -15,4 +15,4 @@ As the usage of mobile phones increased, the use of Short Message Service increa
 6.Deployment: Integrate the model into an email system for real-time classification.<br>
 By following these steps, you can successfully classify spam and non-spam emails using NLP and machine learning techniques<br>
 
-#Happy to Learning and coding 😊
+# Happy to Learning and coding 😊
