@@ -18,9 +18,13 @@ SafeMailAI is a powerful email classification tool that leverages NLP and machin
 
 ## Installations 
 ### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/Venumohan004/P3-spam-mail-classification-by-NLP-and-ML/tree/main
+
+```
+
+
+
 
 
 <h2>How To Executed The Project</h2>
